@@ -1,2 +1,2 @@
 # Django
-Django, web app
+A web application comunity host with python
